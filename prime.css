@@ -1,0 +1,17 @@
+body {  
+    padding-top: 15px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+      background-image: url(primehorizontal.png);
+}
+
+#color{
+    background-color: white;
+    
+}
+#img1{
+	margin-bottom:10px;
+}
+#pic{
+	margin:10px;
+}
